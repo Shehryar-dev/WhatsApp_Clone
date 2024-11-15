@@ -44,3 +44,6 @@ For any inquiries or feedback, feel free to contact me at:
 - Email: shehriyarsaleem@gmail.com
 - GitHub: [@Shehryar-dev](https://github.com/Shehryar-dev)
 - LinkedIn: [Shehryar khan](https://www.linkedin.com/in/shehryarkhandiv/)
+- Portfolio: [Portfolio](https://shehriyar-portfolio-v2.netlify.app/)
+---
+
